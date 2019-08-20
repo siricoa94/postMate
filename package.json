@@ -1,0 +1,23 @@
+{
+  "name": "postmate",
+  "version": "6.6.6",
+  "description": "An app used to make posts of information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siricoa94/postMate.git"
+  },
+  "author": "Andrew L. Sirico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siricoa94/postMate/issues"
+  },
+  "homepage": "https://github.com/siricoa94/postMate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
